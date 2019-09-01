@@ -7,7 +7,7 @@ One house rule I play with is the person who rolls the highest in the beginning 
 
 1. If there are two spots that are about equal, pick second
 1. First pick pick strat: take the 6-9-5 hex and most of the time, there will be a 8-5-port, 8-5-4 or 8-10-port hex open for second pick. The port doesn't have to be for a high quantity resource. Then build towards an 11 or 3. This gives you insane number coverage
-11. The strength of ports in this case is as insurance. It's not uncommon to have 9 wheat dots and 4 sheep dots but have extra sheep that's useless. A sheep port can be valuable in this situation. Thus, a port for a resource that you don't have a ton of can still be good.
+    1. The strength of ports in this case is as insurance. It's not uncommon to have 9 wheat dots and 4 sheep dots but have extra sheep that's useless. A sheep port can be valuable in this situation. Thus, a port for a resource that you don't have a ton of can still be good.
 1. Early picks should place their roads away from the center. Avoid building towards a high value hex because it will probably be taken.
 1. Last pick has a high skill floor and lowest skill ceiling. Early pick is the opposite. Stronger players are much better at taking advantage of early draft picks because it requires planning around opponents.
 1. Last pick (esp in 4 person games) is sometimes forced to go for two toned hex + port. I don't think this is super strong, but often necessary because it's difficult to have all 5 resources.
@@ -19,9 +19,9 @@ One house rule I play with is the person who rolls the highest in the beginning 
 1. Maximize dots
 1. Try to cover all 5 resources.
 1. Four resource (4R) start:
-11. Generally, there are two types of 4R games
-111. In games with no starting brick or wood, you only need about 5 of the missing resource. Plan around efficient (low road #) settlements and win with 4 cities + largest army. (Note: Wood and brick are similar because they are used in equal quanitity. The only difference is there are four wood tiles and three brick tiles)
-111. In games with no sheep/stone/hay, the 3rd settlement must complete your resources (esp if no port)
+    1. Generally, there are two types of 4R games
+        1. In games with no starting brick or wood, you only need about 5 of the missing resource. Plan around efficient (low road #) settlements and win with 4 cities + largest army. (Note: Wood and brick are similar because they are used in equal quanitity. The only difference is there are four wood tiles and three brick tiles)
+        1. In games with no sheep/stone/hay, the 3rd settlement must complete your resources (esp if no port)
 1. Generally, it's good to have different numbers to reduce variance. The exception to this rule is that it's good to have same numbers if the resources are synergistic. (Ex: Standard example is same number wood and brick is good because they are always used together. Same number rock and hay is similar but it's not that useful early on because cities require a lot of hits. Less common example is having a hay port + 3 hay + 1 sheep on the same number equating to a dev card)
 
 ## Longest Road
@@ -47,7 +47,7 @@ Longest road should never be a part of the plan at drafting stage because it's s
 
 1. Catan is like a greedy solution to [the knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem). Consider if there is no handsize limit - the optimal strategy is to hold onto all your cards until you can build using the constituent resources and avoid trading 4 for 1s. I suspect that people are too afraid of holding 7+ cards. For example, you have 3 dots on sheep, but due to rolls and starting resource, you end up with 4 sheep. You convert 4 sheep for a brick and end up needing sheep later. I haven't done the math, but I think at least in some cases, it's better to hold and wait for more resources to build more efficiently.
 1. The meta game in Catan is to convince the other players that you aren't winning.
-11. In a four person game, a 7 will be rolled 50% of the time before your next turn. In a three person game, 40%. Say you have 8 cards, there _must_ be situations where it's better to have 50% chance at -4 cards than do a 4 for 1. Figuring out when to hold is the main way I'm trying to improve.
+    1. In a four person game, a 7 will be rolled 50% of the time before your next turn. In a three person game, 40%. Say you have 8 cards, there _must_ be situations where it's better to have 50% chance at -4 cards than do a 4 for 1. Figuring out when to hold is the main way I'm trying to improve.
 1. In my playstyle, I really hate brick and often start with no brick tiles. From draft, I have an idea of how much brick I need (usually 5-6) and play around that.
 1. Cities beget more cities. I almost always put my first city on a rock hex because it accelerates city development.
 1. "During almost every game, there will be an excess of sheep at some point. Everyone will have sheep, and everyone will be trying to unload them." -- ranker.com
