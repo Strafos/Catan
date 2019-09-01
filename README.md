@@ -37,11 +37,11 @@ Longest road should never be a part of the plan at drafting stage because it's s
 
 1. Apparently an early dev card can be good and the threat of knighting is strong. I'm not entirely convinced because the Knight can be undone by a 7, monopoly should be saved, VP is disasterous, road builder is decent and year of plenty is 3 resources for 2 of any. I think that in a lot of cases (esp if you have city resources), it's better to hold and build a city. The general rule here is to increase resource production early on and dev cards do not contribute to that.
 1. A good mental model for dev cards is to think of how many points each card nets.
-11. Each knight is worth 2/3 VP, -2 net resource, blocks a square
-11. Monopoly should convert into 2 VP. Should be saved until you can win/have winning chances.
-111. The scummiest move in Catan: trade away all of your one resource and monopoly it back.
-11. Year of plenty should convert to 1 VP (this means it should be used to complete a city or settlement). The real power of this card is that it essentially increases your hand size by two.
-11. Road builder should convert to 1-2 VP. Getting longest road is 2 VP case. Otherwise, 2 road + settlement is common use. Only use when you fully utilize both roads, otherwise, hold on to it.
+    11. Each knight is worth 2/3 VP, -2 net resource, blocks a square
+    11. Monopoly should convert into 2 VP. Should be saved until you can win/have winning chances.
+        111. The scummiest move in Catan: trade away all of your one resource and monopoly it back.
+    11. Year of plenty should convert to 1 VP (this means it should be used to complete a city or settlement). The real power of this card is that it essentially increases your hand size by two.
+    11. Road builder should convert to 1-2 VP. Getting longest road is 2 VP case. Otherwise, 2 road + settlement is common use. Only use when you fully utilize both roads, otherwise, hold on to it.
 
 ## General
 
