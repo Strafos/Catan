@@ -23,6 +23,7 @@ One house rule I play with is the person who rolls the highest in the beginning 
         1. In games with no starting brick or wood, you only need about 5 of the missing resource. Plan around efficient (low road #) settlements and win with 4 cities + largest army. (Note: Wood and brick are similar because they are used in equal quanitity. The only difference is there are four wood tiles and three brick tiles)
         1. In games with no sheep/stone/hay, the 3rd settlement must complete your resources (esp if no port)
 1. Generally, it's good to have different numbers to reduce variance. The exception to this rule is that it's good to have same numbers if the resources are synergistic. (Ex: Standard example is same number wood and brick is good because they are always used together. Same number rock and hay is similar but it's not that useful early on because cities require a lot of hits. Less common example is having a hay port + 3 hay + 1 sheep on the same number equating to a dev card). These graphs show the distribution of outcomes in 24 rolls when wood and brick are same/different numbers ![](./wood4brick4.png) ![](./wood4brick10.png)
+1. If you're playing to win, it could be better to repeat the same numbers for higher variance play. In this case, it's harder to be middling, but more often, you can highroll or lowroll. 
 
 
 
@@ -54,6 +55,20 @@ Longest road should never be a part of the plan at drafting stage because it's s
 1. Cities beget more cities. I almost always put my first city on a rock hex because it accelerates city development.
 1. "During almost every game, there will be an excess of sheep at some point. Everyone will have sheep, and everyone will be trying to unload them." -- ranker.com
 1. "Raise an army when you are winning" -- ranker.com
+
+## Variants
+
+Over Thanksgiving break, we stumbled upon a variant that has totally reinvorgated my interesting the game. Rather than use dice, we create a deck of 36 cards. The distributions are the same as dice rolls except in regular play, we draw cards without replacement rather than roll dice. At a high level, this change gives players a weak ability to "see" the future. While we can't know the precise rolls, by keeping track of cards pulled, we can make strategic decisions. This has several effects on the game:
+1. There is less variance in dice rolls. You can still get lucky with ordering, but it takes out those painful moments where a number keeps getting rolled that only benefits your opponent.
+1. Low probability squares "feel" better to take. If you have an 11 hex, you are guarenteed two brick within the cycle. Likewise, a 12 will always give at least one resource
+1. There are more methods of skill expression! By counting the cards drawn, we can gain some information on future draws
+11. Decide where to expand based on which numbers have not been drawn
+11. Block tiles that have a higher probability of being rolled
+11. Bias towards holding cards when more 7's have been drawn
+11. Towards the end of the first cycle, it's possible to plan out resources exactly: "I will get a 9 roll in the next 5 cards"
+1. The cards give a natural indication of game progression. This has surprisingly never been done and seems like useful data to me. By the end of the first cycle (36 rolls), people should have about 4 VP. 5 VP is a highroll you might see if territories are contested in a three person game. 3 VP is a lowroll game.
+
+I've really enjoyed this variant. It's reinvorgated my joy for the game. I would highly recommend it to people who want to think harder about Catan.
 
 ## Resources
 
