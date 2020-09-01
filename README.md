@@ -74,3 +74,5 @@ I've really enjoyed this variant. It's reinvorgated my joy for the game. I would
 
 1. http://boardgamestrategy.blogspot.com/2010/06/complex-strategies-for-settlers-of.html (A lot of ideas were taken from here. It talks in more detail about trade)
 1. https://www.ranker.com/list/settlers-of-catan-tips-tricks/christopher-myers (10 and 13 are interesting)
+
+Two player Catan: http://nick.borko.org/games/Catan2Players.pdf
