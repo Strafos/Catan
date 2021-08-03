@@ -26,7 +26,6 @@ One house rule I play with is the person who rolls the highest in the beginning 
 1. If you're playing to win, it could be better to repeat the same numbers for higher variance play. In this case, it's harder to be middling, but more often, you can highroll or lowroll. 
 
 
-
 ## Longest Road
 
 Longest road should never be a part of the plan at drafting stage because it's situational. Early game roads should be built with the intention of building settlements in good hexes. Longest road is an afterthought when key settlements are built and there's an excess of road material. I've noticed a couple patterns for longest road:
@@ -45,6 +44,16 @@ Longest road should never be a part of the plan at drafting stage because it's s
         1. The scummiest move in Catan: trade away all of your one resource and monopoly it back.
     1. Year of plenty should convert to 1 VP (this means it should be used to complete a city or settlement). The real power of this card is that it essentially increases your hand size by two.
     1. Road builder should convert to 1-2 VP. Getting longest road is 2 VP case. Otherwise, 2 road + settlement is common use. Only use when you fully utilize both roads, otherwise, hold on to it.
+
+## Path to 10 VP
+
+It's very easy to get to 8 or 9 VP by the time someone reaches 10 VP and ends the game. It's valuable to constantly think about how to reach 10 VP. There's a certain point in the game where people generally stop trading much and it's just about rolling the dice and seeing who has a stronger engine (or luck). At this point, players will have at least three different settlements and two of these will likely be cities. Usually, 6-7 VP come from cities/settlements and the remaining 3-4 VP come from dev cards, largest army and longest road.
+
+1. 3 Cities + Largest army: This is my favorite build because I don't like brick or wood. I get a city before building a 3rd settlement. I get a fast second city. Then I buy dev cards to win the game 
+    1. It's easy to get largest army because they use the same resource cities. Knights keep robbers off your squares.
+    2. Roadbuilder is a potential win condition by snatching longest road
+    3. VP means you only need 1 extra point to win (4th settlement, dig for another VP)
+2. 2 Cities + 1 Settlement + VP + Longest Road + Largest army: This is one of the earliest possible victories and it only happens if road is uncontested and you get it to win the game.
 
 ## General
 
