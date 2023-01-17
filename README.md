@@ -81,7 +81,14 @@ Over MLK weekend 2023, I played ~10 games of C&K and here's what I've learned. N
 1. VP break away - There are many yellow/blue cards that can only be used if there's a VP disadvantage. In the mid game, players usually have 5-7 points and one must decide when to break away from the pack to look for the win. This is similar to the runner who initiates the final sprint at the end. During this time, you stock up on progress cards and resources. Then suddenly you create a 3 VP swing by grabbing longest road/metropolis, revealing your merchant and threating a different metropolis. You attempt to spend everything and have the smallest hand possible to minimize any sabatoge cards.
 1. Merchant - My opponents often held their merchants because they wanted me to have VP advantage. When you play your merchant and people don't steal it away, it's important to exploit this by using your merchant as much as possible when you have it.
 1. Barbarians - On average, each game has three barbarian invasions and at most four. It's important to have a feel for how fast the game is progressing. Note how many VPs are coming into the game because this is realistically the only factor that affects how long the game will go. If people tie multiple invasions, there are less VPs and the game will go on for longer. 
-    
+    1. Wait as long as possible before playing knights. You want to increase your knights in "bursts". The best way to grab a VP is to chill until two away from barb and then upgrade two knights. Note that it's pretty common to be able to upgrade two knights (2 rock + 2 sheep + 1? hay). It's MUCH harder to go +3 in a single turn simply because of hand size and the fact that you would rather build a city.
+    1. Even if not competing for knights, it's good to have at least one active knight. Let's say there are 6 cities, you have 1 knight, and your opponents have 2 and 2 knights. You ensure that if a Deserter is played, you are safe and there are no shenanigans where someone deactivates a knight to intentionally make you lose a city. 
+
+
+Stuff I'm confused about:
+1. I still don't have a good idea of how much to prioritize knights. Because we restarted the game when someone lost a city in the first barbarian attack, this incentivized building settlements and minimizing the amount of knights played.
+1. I don't have an intuition for how to hit 13 points. I know that it always requires two mogopolis, but I still struggle in the last few points. I find myself often stuck at 11 or 12 with a huge gap to victory. This is different from base Catan, where I have a clear sense for the winning combinations. 
+
 
 ## Variants
 
